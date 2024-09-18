@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.40c277b0.css",
-    "main.js": "/Portfolio/static/js/main.9ee6c43d.js",
+    "main.js": "/Portfolio/static/js/main.f6ed1d6a.js",
     "static/media/Data_Analytics_with_Python.png": "/Portfolio/static/media/Data_Analytics_with_Python.6b717dca11c4c91d5c01.png",
     "static/media/the-wedding-frame.png": "/Portfolio/static/media/the-wedding-frame.89d66859c4f052eb921c.png",
     "static/media/todo-list.png": "/Portfolio/static/media/todo-list.437c255bffb07f35af39.png",
@@ -17,10 +17,10 @@
     "static/media/Portfolio-logo.png": "/Portfolio/static/media/Portfolio-logo.7e14f9e2c7f63296ec1f.png",
     "index.html": "/Portfolio/index.html",
     "main.40c277b0.css.map": "/Portfolio/static/css/main.40c277b0.css.map",
-    "main.9ee6c43d.js.map": "/Portfolio/static/js/main.9ee6c43d.js.map"
+    "main.f6ed1d6a.js.map": "/Portfolio/static/js/main.f6ed1d6a.js.map"
   },
   "entrypoints": [
     "static/css/main.40c277b0.css",
-    "static/js/main.9ee6c43d.js"
+    "static/js/main.f6ed1d6a.js"
   ]
 }
