@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.40c277b0.css",
+    "main.js": "/Portfolio/static/js/main.9ee6c43d.js",
+    "static/media/Data_Analytics_with_Python.png": "/Portfolio/static/media/Data_Analytics_with_Python.6b717dca11c4c91d5c01.png",
+    "static/media/the-wedding-frame.png": "/Portfolio/static/media/the-wedding-frame.89d66859c4f052eb921c.png",
+    "static/media/todo-list.png": "/Portfolio/static/media/todo-list.437c255bffb07f35af39.png",
+    "static/media/uno1.png": "/Portfolio/static/media/uno1.9f8578021b59e40d8aad.png",
+    "static/media/Data_Mining.jpeg": "/Portfolio/static/media/Data_Mining.5c0d0fa2ce4d66908a98.jpeg",
+    "static/media/food-adda.png": "/Portfolio/static/media/food-adda.46dabab5b2e1ed467127.png",
+    "static/media/Web_Development.jpg": "/Portfolio/static/media/Web_Development.4a63241dd61614e62c41.jpg",
+    "static/media/mafia.jpg": "/Portfolio/static/media/mafia.815703619eb6f0437498.jpg",
+    "static/media/Library-Management-System.png": "/Portfolio/static/media/Library-Management-System.3651056d6a63c3e5ea4b.png",
+    "static/media/Research_Parer.png": "/Portfolio/static/media/Research_Parer.db42d7d5582e85c2db2a.png",
+    "static/media/banner-img-1.png": "/Portfolio/static/media/banner-img-1.c7b206fb0332321d5e2e.png",
+    "static/media/contactImg.png": "/Portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/Portfolio-logo.png": "/Portfolio/static/media/Portfolio-logo.7e14f9e2c7f63296ec1f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.40c277b0.css.map": "/Portfolio/static/css/main.40c277b0.css.map",
+    "main.9ee6c43d.js.map": "/Portfolio/static/js/main.9ee6c43d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c277b0.css",
+    "static/js/main.9ee6c43d.js"
+  ]
+}
